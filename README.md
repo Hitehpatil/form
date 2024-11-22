@@ -1,4 +1,8 @@
 # form
+![image](https://github.com/user-attachments/assets/a4757207-f682-43cc-91d0-608e57d6b694)
+![image](https://github.com/user-attachments/assets/53118dcf-2046-4e9f-b193-02801c7da040)
+
+
 i have make a animated form using the react js .which will take input from the user
 
 Animated Health Care Management System Form
